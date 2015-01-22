@@ -2,7 +2,7 @@
 
 ## Changlog
 
-  * 0.1 Adicionada a tarefa `gulp build` organiza os arquivos copilados e minificados na pasta **dist**.
+  * 0.1 Adicionada a tarefa `gulp build` que organiza os arquivos copilados e minificados na pasta **dist**.
 
 ------------------
 
