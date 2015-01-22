@@ -11,8 +11,8 @@ var rename = require('gulp-rename');					// Rename files
 var notify = require('gulp-notify');						// Writing stuff
 var livereload = require('gulp-livereload');			// LiveReload
 var jshint = require("gulp-jshint");					// jshint
-var mergestream = require('merge-stream');
-var eventstream = require('event-stream');
+var merge = require('merge-stream');
+var en = require('event-stream');
 var folder = 'dist';
 
 
