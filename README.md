@@ -1,4 +1,4 @@
-# Loume & Gromf
+# Loume
 
 Loume is a WordPress starter theme based on [Roots](https://github.com/roots/roots) 7.0, using [Foundation](http://foundation.zurb.com) & [Gulp](http://gulpjs.com) instead of Bootstrap & Grunt.
 
@@ -62,4 +62,4 @@ Since Loume is heavily based on [Roots](https://github.com/roots/roots), 90% of 
 
 ## Changlog
 
-  * 0.1 Com a utilização 'gulp build', há a chance de gerar os arquivos necessários e minificado do tema, bastando apenas evia-los ao servidor. 
+  * 0.1 Com a utilização (`gulp build`), há a chance de gerar os arquivos necessários e minificado do tema, bastando apenas evia-los ao servidor. 
