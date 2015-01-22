@@ -17,8 +17,6 @@ Since Loume is heavily based on [Roots](https://github.com/roots/roots), most of
 * [Theme wrapper](http://roots.io/an-introduction-to-the-roots-theme-wrapper/)
 * Cleaner HTML output of navigation menus
 * [Multilingual ready](http://roots.io/wpml/) and over 30 available [community translations](https://github.com/roots/roots-translations)
-* WordPress clean up - Roots cleaning in addition to dashboard & widgets cleanup (see [lib/extras.php](https://github.com/schikulski/Loume/blob/master/lib/extras.php))
-
 
 ### Additional features
 
@@ -36,7 +34,7 @@ Before you start using Loume make sure you have [NodeJS](http://nodejs.org), [Bo
 
 Then:
 
-* Clone the git repo - `git clone git://github.com/schikulski/Loume.git && cd Loume`
+* Clone the git repo - `git clone https://github.com/mathloureiro/Loume.git && cd Loume`
 * `npm install`
 * `bower install`
 * `gulp`
@@ -62,11 +60,6 @@ Since Loume is heavily based on [Roots](https://github.com/roots/roots), 90% of 
 * [Build Script](http://roots.io/using-grunt-for-wordpress-theme-development/) — A look into how Roots uses Grunt
 * [Roots Sidebar](http://roots.io/the-roots-sidebar/) — Understand how to display or hide the sidebar in Roots
 
-## Contributing
+## Changlog
 
-Feel free to contribute! 
-
-
-This is Yetien Grompf
-
-![Loume](http://gfx.nrk.no/8gjVcNbGJF453RegYzZtzAJySRdSV_2RS9khstDHldpw)
+  * 0.1 Com a utilização 'gulp build', há a chance de gerar os arquivos necessários e minificado do tema, bastando apenas evia-los ao servidor. 
