@@ -1,5 +1,9 @@
 # Loume
 
+## Changlog
+
+  * 0.1 Adicionada a tarefa `gulp build` organiza os arquivos copilados e minificados na pasta **dist**.
+
 Loume is a WordPress starter theme based on [Roots](https://github.com/roots/roots) 7.0, using [Foundation](http://foundation.zurb.com) & [Gulp](http://gulpjs.com) instead of Bootstrap & Grunt.
 
 
@@ -59,7 +63,3 @@ Since Loume is heavily based on [Roots](https://github.com/roots/roots), 90% of 
 * [Theme Wrapper](http://roots.io/an-introduction-to-the-roots-theme-wrapper/) — Learn all about the theme wrapper
 * [Build Script](http://roots.io/using-grunt-for-wordpress-theme-development/) — A look into how Roots uses Grunt
 * [Roots Sidebar](http://roots.io/the-roots-sidebar/) — Understand how to display or hide the sidebar in Roots
-
-## Changlog
-
-  * 0.1 Com a utilização (`gulp build`), há possbilidade de gerar os arquivos necessários e minificado do tema, bastando apenas evia-los ao servidor. 
