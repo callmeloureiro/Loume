@@ -1,0 +1,26 @@
+{
+  "name": "Loume",
+  "version": "0.1",
+  "homepage": "https://www.matheusloureiro.com.br",
+  "authors": [
+    "Matheus Loureiro <web@matheusloureiro.com.br>"
+  ],
+  "description": "WordPress starter theme, based on Roots.",
+  "keywords": [
+    "wordpress",
+    "theme",
+    "roots"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "5.4.7"
+  }
+}
