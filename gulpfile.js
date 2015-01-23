@@ -166,6 +166,9 @@ var folder = 'dist';
 	});
 
 
+
+
+
 //
 //		Build gulp task.
 //
@@ -220,6 +223,12 @@ var folder = 'dist';
 		return merge(copy8, copy9);
 
 	});
+
+
+
+
+
+
 
 
 //

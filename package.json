@@ -1,6 +1,6 @@
 {
   "name": "Loume",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Wordpress starter theme, based on Roots",
   "main": "gulpfile.js",
   "devDependencies": {
@@ -29,6 +29,6 @@
     "url": "https://github.com/mathloureiro/loume.git"
   },
   "author": "Matheus Loureiro",
-  "license": "MIT",
+  "license": "ISC",
   "homepage": "https://www.matheusloureiro.com.br"
 }
